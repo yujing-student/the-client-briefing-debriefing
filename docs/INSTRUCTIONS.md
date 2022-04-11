@@ -11,8 +11,8 @@ In het college S02W1-02-briefing-debriefing wordt behandeld wat een briefing en 
 
 ## Doel van deze opdracht
 
-Het briefingproces bestaat uit twee delen een briefing van de opdrachtgever en een debriefing. 
-De debriefing is noodzakelijk voor de opdrachtgever om na te gaan, of duidelijk is overgekomen, wat hij voor ogen had. 
+Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. 
+De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. 
 Maar ook voor jou en je team om om te controleren of je alles goed heeft begrepen en geconcretiseerd.
 
 <img width="1545" alt="image" src="https://user-images.githubusercontent.com/1391509/162735565-991e7bd6-e09d-4a34-a262-6fb91de004cc.png">
