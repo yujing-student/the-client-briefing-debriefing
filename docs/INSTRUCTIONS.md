@@ -127,6 +127,7 @@ _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project.
  2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
  3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
  4. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
+ 5. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debreifing, dit zijn de onderlingen afspraken die voor de opdracht gelden.
 
 #### Materiaal analysefase
 
