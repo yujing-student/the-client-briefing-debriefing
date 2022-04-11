@@ -152,8 +152,8 @@ Deze leertaak hoort bij de gedragscriteria:
 
 Deze opdracht is done als:
 
- - [ ] Er is _mindmap_ met alle onderdeen van de debriefing
- - [ ] Er is een debriefing geschreven voor de opdrachtgever
+ - [ ] Er is _mindmap_ met alle onderdelen van de debriefing
+ - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever
  - [ ] De feedback van de opdrachtgever op de (eerste) debriefing is beschreven
  - [ ] De briefing en debriefing is gedocumenteerd in de Readme van de leertaak
  
