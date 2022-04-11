@@ -44,21 +44,84 @@ De debriefing is noodzakelijk voor:
 - Voor jou om te controleren of je alles goed heeft begrepen en geconcretiseerd.
 
 In een debriefing komen deze zaken aan bod:
-1. Contactgegevens
+
+##### 1. Contactgegevens
+
 Voor welke organisatie ga je de opdracht uitvoeren?
 - Bedrijfsnaam
 - Voor- en achternaam contactpersoon en contactgegevens
 - Datum aanvraag
 - Datum oplevering
 
-3. Achtergrondinformatie
-4. Opdrachtomschrijving
-5. Aanleiding
-6. Doelstelling
-7. Oplevering
-8. Randvoorwaarden
-9. Gebruikers van het eindresultaat
-10. Relatie met andere projecten
+##### 2. Achtergrondinformatie
+
+Wie is de opdrachtgever? 
+- Welke diensten biedt hij aan?
+- Wat zijn de unique selling points van het bedrijf?
+- Zijn er belangrijk mijlpalen of gebeurtenissen?
+- …
+
+##### 3. Opdrachtomschrijving
+
+Omschrijf kort en bondig het probleem en vertaal dit in een uitdaging. 
+
+[Bedrijfsnaam] wil [een oplossing] om [het probleem] te voorkomen.
+
+##### 4. Aanleiding
+
+Wat is de reden dat de opdracht wordt ingediend en waarom op dit moment.
+
+_Dit geeft antwoord op de vraag: Waarom doen we dit?_
+
+##### 5. Doelstelling
+
+Elk bedrijf hanteert doelstellingen. 
+Afhankelijk van de grootte van het bedrijf kan het gaan om een doelstelling van het bedrijf, de afdeling of een persoonlijke doelstelling van jouw contactpersoon.
+
+_Door dit helder te omschrijven, kun je meedenken of deze doelstelling voldoende aansluit bij de opdrachtomschrijving en het achterliggende probleem en vice versa._
+
+
+##### 6. Oplevering
+
+Beschrijf zo concreet mogelijk wat je oplevert. 
+
+- Beschrijf exact wat er wordt opgeleverd (product/dienst)
+- Welke tone of voice hanteer je? Huisstijl?
+- …
+
+_Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve terugkoppeling van de opdrachtgever heb je direct zwart-op-wit een goedkeuring. _
+
+
+##### 7. Randvoorwaarden
+
+- Wat hoort niet bij de oplevering?
+- Wat is de planning van het project?
+- Wat is noodzakelijk om te kunnen starten met de opdracht?
+- Welke teamleden moet je aanstellen?
+- Wat is het budget en is er voldoende budget?
+- Welke systemen, technieken of expertise zijn nodig?
+- Welke specificaties en eisen stelt het bedrijf aan de oplevering?
+- Zijn er obstakels denkbaar die extern liggen?
+- …
+
+
+##### 8. Gebruikers van het eindresultaat
+
+Voor wie is de website bedoeld? 
+
+- Wie is je doelgroep?
+- Wat willen zij bereiken?
+- Waarom tonen zij bepaald gedrag?
+- Waarop baseren zij hun keuzes?
+- Hoe denken zij over het gebruik van het product of dienst?
+- …
+
+
+##### 9. Relatie met andere projecten
+
+Is het onderdeel van een groter system of website? Is er een koppeling naar een ander system? Is het onderdeel van een grote campagne?
+
+_Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project._
 
 
 <details>
