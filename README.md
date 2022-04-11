@@ -5,7 +5,7 @@
 
 
 ## Mindmap 
-<-- Een mindmap en aantekeningen met alle onderdelen van de briefing-->
+<!-- Een mindmap en aantekeningen met alle onderdelen van de briefing-->
 
 ## Debriefing
 <!-- Debriefing die je hebt geschreven voor de opdrachtgever-->
