@@ -80,7 +80,6 @@ Afhankelijk van de grootte van het bedrijf kan het gaan om een doelstelling van 
 
 _Door dit helder te omschrijven, kun je meedenken of deze doelstelling voldoende aansluit bij de opdrachtomschrijving en het achterliggende probleem en vice versa._
 
-
 ##### 6. Oplevering
 
 Beschrijf zo concreet mogelijk wat je oplevert. 
@@ -90,7 +89,6 @@ Beschrijf zo concreet mogelijk wat je oplevert.
 - …
 
 _Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve terugkoppeling van de opdrachtgever heb je direct zwart-op-wit een goedkeuring. _
-
 
 ##### 7. Randvoorwaarden
 
@@ -104,7 +102,6 @@ _Hiermee toon je aan dat je de aanvraag goed hebt begrepen. Bij een positieve te
 - Zijn er obstakels denkbaar die extern liggen?
 - …
 
-
 ##### 8. Gebruikers van het eindresultaat
 
 Voor wie is de website bedoeld? 
@@ -115,7 +112,6 @@ Voor wie is de website bedoeld?
 - Waarop baseren zij hun keuzes?
 - Hoe denken zij over het gebruik van het product of dienst?
 - …
-
 
 ##### 9. Relatie met andere projecten
 
