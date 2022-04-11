@@ -22,7 +22,7 @@ Maar ook voor jou en je team om te controleren of je alles goed hebt begrepen en
 De werkwijze volgt de fasering van de Development Life Cycle.
 
 Briefing /debriefing zit in de [analyse](#analyseren) fase van de Dev Life Cycle.
-Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debrbiefing uit bestaan? En hoe start je vervolgens je project op, welke stappen doorloop je voor een goede gestructureerde werkwijze?
+Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debriefing uit bestaan? 
 
 <img width="1535" alt="image" src="https://user-images.githubusercontent.com/1391509/162735717-821ce014-cb2a-451f-8f93-36e2cab2a2c7.png">
 
