@@ -145,7 +145,7 @@ _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project.
 
 Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
 
-Deze leertaak hoort bij het gedragscriterium:
+Deze leertaak hoort bij de gedragscriteria:
 
 - Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
 - Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
