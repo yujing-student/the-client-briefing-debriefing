@@ -1,190 +1,96 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
+# The Cient - Briefing/Debriefing
 
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
-
-# {Naam}
-
-{Beschrijving van de leertaak}.
+Leren om een debriefing te schrijven op basis van een briefing van een opdrachtgever.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 2 "The Client". 
+Dit is een deeltaak die je individueel uitvoert.
 
-
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
-
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+In het college S02W1-02-briefing-debriefing wordt behandeld wat een briefing en debriefing is.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Het briefingproces bestaat uit twee delen:
+1. Briefing van de opdrachtgever
+2. Debriefing, ofwel de terugkoppeling dat je alles goed begrepen heeft.
 
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
+De debriefing is noodzakelijk voor de opdrachtgever om na te gaan, of duidelijk is overgekomen, wat hij voor ogen had. 
+Maar ook voor jou en je team om om te controleren of je alles goed heeft begrepen en geconcretiseerd.
+
+<img width="1545" alt="image" src="https://user-images.githubusercontent.com/1391509/162735565-991e7bd6-e09d-4a34-a262-6fb91de004cc.png">
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+De werkwijze volgt de fasering van de Development Life Cycle.
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Briefing /debriefing zit in [analyse](#analyseren) fase van de Dev Life Cycle.
+Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debrbiefing uit bestaan? En hoe start je vervolgens je project op, welke stappen doorloop je voor een goede gestructureerde werkwijze?
+
+<img width="1535" alt="image" src="https://user-images.githubusercontent.com/1391509/162735717-821ce014-cb2a-451f-8f93-36e2cab2a2c7.png">
+
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.
+
+#### Het briefingproces van een opdracht. 
+
+Voordat je naar de briefing van de opdrachtgever gaat bereid je je voor op het gesprek zodat je weet welke vragen je moet stellen. Na de briefing stuur je de opdrachtgever een debriefing waarin je in eigen woorden opschrijft wat jij denkt dat de opdracht inhoudt. 
+
+Het briefingproces bestaat uit twee delen:
+ - Briefing van de opdrachtgever
+ - Debriefing, ofwel de terugkoppeling dat je alles goed begrepen heeft.
+
+De debriefing is noodzakelijk voor:
+- De opdrachtgever om na te gaan, of duidelijk is overgekomen, wat hij voor ogen had
+- Voor jou om te controleren of je alles goed heeft begrepen en geconcretiseerd.
+
+In een debriefing komen deze zaken aan bod:
+1. Contactgegevens
+2. Achtergrondinformatie
+3. Opdrachtomschrijving
+4. Aanleiding
+5. Doelstelling
+6. Oplevering
+7. Randvoorwaarden
+8. Gebruikers van het eindresultaat
+9. Relatie met andere projecten
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+ 1. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
+ 2. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
+ 3. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
+ 4. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
 
 #### Materiaal analysefase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+ Over briefing / debriefing
+ - [Checklist voor de ultieme debriefing – in 11 stappen naar resultaat](https://www.frankwatching.com/archive/2020/09/10/ultieme-debriefing-checklist-11-stappen/)
+ - [Hoe stel je een goede briefing en debriefing (onderzoeksomschrijving en terugkoppeling daarop) op?]()
+ - Voorbeeld van een Mindmap voor een debriefing:
+   <img width="1077" alt="image" src="https://user-images.githubusercontent.com/1391509/134825307-400aaa62-df4e-41b2-971a-03cee2886a7c.png">
 
 </details>
 
-### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal ontwerpfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ## Criteria
-*Definitions of done*
-
-{beschrijf de definitions of done}
-
-Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig. Succes ervaren.
 
 Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
 
-Focus sprint 3 - De focus in deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Je maakt iets voor een mens. Praten met een mens, doorvragen, protoypen en testen en resultaten gebruiken.
+Deze leertaak hoort bij het gedragscriterium:
 
-Focus sprint 4 - De focus in deze sprint ligt op het toepassen van een huisstijl en maken van formulieren. Living styleguide en Atomic design, Animeren, Toegankelijke formulieren.
+- Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
+- Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
 
-Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
+Deze opdracht is done als:
 
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
-
-Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
-
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
-dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
-
-Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
-
-Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
-
-Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. Job Stories, wireflowing, realtime en data management.
-
-Focus sprint 12 - De focus van deze sprint ligt op werkwijze en samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. Iteratief (samen) werken: prototypen en testen om een concept te realiseren.
-
-
+ - [] Er is _mindmap_ met alle onderdeen van de debriefing
+ - [] Er is een debriefing geschreven voor de opdrachtgever
+ - [] De feedback van de opdrachtgever op de (eerste) debriefing is beschreven
+ - [] De briefing en debriefing is gedocumenteerd in de Readme van de leertaak
+ 
