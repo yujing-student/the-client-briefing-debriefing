@@ -45,14 +45,20 @@ De debriefing is noodzakelijk voor:
 
 In een debriefing komen deze zaken aan bod:
 1. Contactgegevens
-2. Achtergrondinformatie
-3. Opdrachtomschrijving
-4. Aanleiding
-5. Doelstelling
-6. Oplevering
-7. Randvoorwaarden
-8. Gebruikers van het eindresultaat
-9. Relatie met andere projecten
+Voor welke organisatie ga je de opdracht uitvoeren?
+- Bedrijfsnaam
+- Voor- en achternaam contactpersoon en contactgegevens
+- Datum aanvraag
+- Datum oplevering
+
+3. Achtergrondinformatie
+4. Opdrachtomschrijving
+5. Aanleiding
+6. Doelstelling
+7. Oplevering
+8. Randvoorwaarden
+9. Gebruikers van het eindresultaat
+10. Relatie met andere projecten
 
 
 <details>
