@@ -12,19 +12,23 @@ In het college S02W1-01-kickoff-the-client wordt behandeld wat een briefing en d
 ## Doel van deze opdracht
 
 Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. 
+
+<img width="1387" alt="image" src="https://user-images.githubusercontent.com/1391509/192163684-20b3de5e-37a4-4efa-963d-3e6c57d57d48.png">
+
 De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. 
 Maar ook voor jou en je team om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
-<img width="1545" alt="image" src="https://user-images.githubusercontent.com/1391509/162735565-991e7bd6-e09d-4a34-a262-6fb91de004cc.png">
+
 
 ## Werkwijze
 
-De werkwijze volgt de fasering van de Development Life Cycle.
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/1391509/192163638-909a49d4-de48-4e29-8ccf-27d9584d687f.png">
+
 
 Briefing /debriefing zit in de [analyse](#analyseren) fase van de Dev Life Cycle.
 Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debriefing uit bestaan? 
 
-<img width="1535" alt="image" src="https://user-images.githubusercontent.com/1391509/162735717-821ce014-cb2a-451f-8f93-36e2cab2a2c7.png">
+
 
 
 ### Analyseren
