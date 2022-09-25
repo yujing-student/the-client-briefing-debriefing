@@ -5,7 +5,7 @@ Leren om een debriefing te schrijven op basis van een briefing van een opdrachtg
 ## Context
 
 Deze deeltaak hoort bij sprint 2 "The Client". 
-Dit is een deeltaak die je individueel uitvoert.
+Dit is een deeltaak die je met de groep studenten uit je squad mag uitvoeren.
 
 In het college S02W1-01-kickoff-the-client wordt behandeld wat een briefing en debriefing is.
 
