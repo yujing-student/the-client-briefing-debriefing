@@ -4,7 +4,7 @@ Leren om een debriefing te schrijven op basis van een briefing van een opdrachtg
 
 ## Context
 
-Deze leertaak hoort bij sprint 2 "The Client". 
+Deze deeltaak hoort bij sprint 2 "The Client". 
 Dit is een deeltaak die je individueel uitvoert.
 
 In het college S02W1-02-briefing-debriefing wordt behandeld wat een briefing en debriefing is.
@@ -143,9 +143,9 @@ _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project.
 
 ## Criteria
 
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
+Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
 
-Deze leertaak hoort bij de gedragscriteria:
+Deze deeltaak hoort bij de gedragscriteria:
 
 - Methodisch handelen: Je realiseert een oplossing voor een opdrachtgever.
 - Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
