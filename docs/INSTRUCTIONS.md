@@ -29,11 +29,20 @@ Briefing /debriefing zit in de [analyse](#analyseren) fase van de Dev Life Cycle
 Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debriefing uit bestaan? 
 
 
-
-
 ### Analyseren
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.
+
+#### Aanpak
+
+ 1. Lees de instructies van deze leertaak zorgvuldig door.
+ 2. Kies één van de opdrachten 
+ 3. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
+ 4. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
+ 5. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
+ 6. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
+ 7. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debriefing, dit zijn de onderlinge afspraken die voor de opdracht gelden.
+
 
 #### Het briefingproces van een opdracht. 
 
@@ -124,14 +133,6 @@ Is het onderdeel van een groter system of website? Is er een koppeling naar een 
 _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project._
 
 
-## Aanpak
-
- 1. Kies één van de opdrachten 
- 2. Maak  een _mindmap_ voor de briefing, vul zoveel mogelijk informatie in die je al weet of kan opzoeken. 
- 3. Maak een lijst met vragen van de dingen die je nog niet weet, neem dit mee naar de briefing van de opdrachtgever.
- 4. Tijdens en na de briefing met de opdrachtgever maak je de _mindmap_ af. 
- 5. Schrijf daarna de debriefing met alle informatie en stuur het op naar de opdrachtgever.
- 6. Verwerk de feedback van de opdrachtgever en schrijf een definitieve debreifing, dit zijn de onderlingen afspraken die voor de opdracht gelden.
 
 #### Materiaal analysefase
 
