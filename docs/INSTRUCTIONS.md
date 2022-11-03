@@ -9,6 +9,10 @@ Dit is een deeltaak die je met de groep studenten uit je squad mag uitvoeren.
 
 In het college S02W1-01-kickoff-the-client wordt behandeld wat een briefing en debriefing is.
 
+Deze deeltaak hoort bij de leertaak:
+- [The Client Case](https://github.com/fdnd-task/the-client-case/)
+
+
 ## Doel van deze opdracht
 
 Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en een debriefing. 
