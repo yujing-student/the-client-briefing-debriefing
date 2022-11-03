@@ -1,6 +1,6 @@
 # The Cient - Briefing/Debriefing
 
-Leren om een debriefing te schrijven op basis van een briefing van een opdrachtgever.
+Schrijf een debriefing op basis van een briefing van een opdrachtgever.
 
 ## Context
 
