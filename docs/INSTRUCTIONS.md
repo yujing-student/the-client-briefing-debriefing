@@ -23,11 +23,9 @@ De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk i
 Maar ook voor jou en je team om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 
-
 ## Werkwijze
 
 <img width="1393" alt="image" src="https://user-images.githubusercontent.com/1391509/192163638-909a49d4-de48-4e29-8ccf-27d9584d687f.png">
-
 
 Briefing /debriefing zit in de [analyse](#analyseren) fase van de Dev Life Cycle.
 Waar moet je op letten als je een briefing krijgt van een opdrachtgever en waar moet een debriefing uit bestaan? 
