@@ -135,7 +135,6 @@ Is het onderdeel van een groter system of website? Is er een koppeling naar een 
 _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project._
 
 
-
 #### Materiaal analysefase
 
  Over briefing / debriefing
@@ -147,14 +146,9 @@ _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project.
 </details>
 
 
-
-## Criteria
+## Definition of done
 
 Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
-
-Deze deeltaak hoort bij de gedragscriteria:
-
-- Probleemoplossend vermogen: Je analyseert een vraag en volgt de aangeboden oplossingsrichting.
 
 Deze opdracht is done als:
 
