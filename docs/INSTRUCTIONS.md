@@ -148,8 +148,6 @@ _Elk project, elke aanvraag staat in relatie tot een ander onderwerp of project.
 
 ## Definition of done
 
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
-
 Deze opdracht is done als:
 
  - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever
