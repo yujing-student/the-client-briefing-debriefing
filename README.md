@@ -3,7 +3,7 @@
 # The Cient - Briefing/Debriefing
 
 Ik heb een briefing geschreven voor mijn opdrachtgever waarin ik duidelijk vastleg wie de doelgrope zjn wat er moet gebeuren
-Daarop heb ik feedback gekregen
+Daarop heb ik feedback gekregen en een definitieve debriefing geschreven dit kan je lezen in de wiki
 
 ## Licentie
 
