@@ -2,7 +2,8 @@
 
 # The Cient - Briefing/Debriefing
 
-Schrijf een debriefing op basis van een briefing van een opdrachtgever.
+Ik heb een briefing geschreven voor mijn opdrachtgever waarin ik duidelijk vastleg wie de doelgrope zjn wat er moet gebeuren
+Daarop heb ik feedback gekregen
 
 ## Licentie
 
