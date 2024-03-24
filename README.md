@@ -5,7 +5,7 @@
 Ik heb een briefing geschreven voor mijn opdrachtgever in sprint 2 waarin ik duidelijk vastleg wie de doelgrope zjn wat er moet gebeuren
 Daarop heb ik feedback gekregen en een definitieve debriefing geschreven dit kan je lezen in de wiki https://github.com/yujing-student/the-client-briefing-debriefing/wiki/briefing
 
-ik heb een briefing geschreven voor mijn opdrachtgever in sprint 8 zie de link naar de briefing <A href="https://docs.google.com/document/d/1ME9dgccwZLMhFbr9Y3g-DY395k8jZ3g19gBefNBprEQ/edit">briefing</a
+ik heb een briefing geschreven voor mijn opdrachtgever in sprint 8 zie de link naar de briefing <A href="https://docs.google.com/document/d/1ME9dgccwZLMhFbr9Y3g-DY395k8jZ3g19gBefNBprEQ/edit">briefing</a>
 
 ## Licentie
 
